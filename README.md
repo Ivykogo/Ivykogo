@@ -41,5 +41,5 @@ Feel free to explore my repositories to see what I’m building! 🛠️
 ## 🌟 Let's Connect!
 
 📧 **Email**: [ivykogo84@gmail.com](mailto:ivykogo84@gmail.com)  
-🌐 **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/ivykogo)  
+🌐 **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/ivy-kogo-877527306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 💼 **Portfolio**: Coming Soon! 🚀  
