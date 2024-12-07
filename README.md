@@ -43,3 +43,7 @@ Feel free to explore my repositories to see what I’m building! 🛠️
 📧 **Email**: [ivykogo84@gmail.com](mailto:ivykogo84@gmail.com)  
 🌐 **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/ivy-kogo-877527306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 💼 **Portfolio**: Coming Soon! 🚀  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivykogo&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivykogo&show_icons=true&theme=dark)](https://github.com/ivykogo)
