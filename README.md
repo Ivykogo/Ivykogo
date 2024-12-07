@@ -11,12 +11,12 @@ Hi there! 👋 I'm **Ivy Kogo**, a passionate **Data Scientist in training** �
   - Python 🐍 | JavaScript 🌐 | HTML & CSS 🎨  
   - SQL/MySQL 📊 | R 📘 | Power BI 📊  
 - ⚡ **Interests**:  
-  - Data Science & Analysis 📈  
+  - Data Science & Analysis 📈
+  - AI & Machine Learning 🤖 
   - Web Development 🌍 *(with a focus on backend)*  
-  - Cybersecurity 🛡️  
-  - AI & Machine Learning 🤖  
+  - Cybersecurity 🛡️    
 
-When I’m not coding or analyzing data, you’ll probably find me brainstorming creative ideas, working on impactful projects, or participating in hackathons. 💡
+When I’m not coding or analyzing data, you’ll probably find me brainstorming creative ideas , working on impactful projects, or participating in hackathons. 💡
 
 ---
 
